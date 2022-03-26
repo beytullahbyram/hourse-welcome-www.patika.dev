@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(62, 112, 95);
+    color: #e98208;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+    min-height: 800px;
+    display: table;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin:0 auto;
+    padding: 20px;
+}
+#text {
+    width: auto;
+    height: auto;
+    padding: 35px;
+    background-color: rgb(67, 126, 116);
+    position: relative;
+    margin: auto;
+}
+
+.bilgi{
+    color: #e98208;
+}
